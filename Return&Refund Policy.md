@@ -4,7 +4,7 @@ Top Duoo (topduoo.com) Effective date: November 16, 2026
 This policy explains how returns, exchanges, and refunds work for orders placed on topduoo.com and delivered within Bangladesh, mainly on a Cash on Delivery (COD) basis. Because you pay only when the product reaches you, the best time to check your order is the moment it is handed over.
 2. Check Your Product at the Time of Delivery
 1.  You must check the product while the delivery person is still standing there. If you find any defect or problem, tell the delivery person to take the product back right then.
-2.  If you want to return or exchange the product after the delivery person has left, you must pay an additional delivery charge. [Return/exchange delivery charge: ৳ amount]
+2.  If you want to return or exchange the product after the delivery person has left, you must pay an additional delivery charge. Return/exchange delivery charge: ৳ 120
 When you reject a product at the door for a valid reason, you do not pay for it.
 3. When You Can Return a Product at the Door
 You may refuse delivery and return the product to the delivery person if it:
@@ -34,13 +34,13 @@ If the problem is a defect or a mistake on our side (such as the wrong item sent
 Please do not send a product back without our confirmation, as we cannot be responsible for parcels we did not approve.
 7. Refunds
 • Rejected at the door: You paid nothing, so no refund is needed.
-• Approved return after delivery: We refund the product price after we receive and inspect the returned item. Refunds are sent to your mobile banking account ([bKash / Nagad / other]) or another method we agree on, within [X working days] of approval.
+• Approved return after delivery: We refund the product price after we receive and inspect the returned item. We send refunds to your mobile banking account ([bKash / Nagad / other]) or another method we agree on within 2 of approval.
 • Delivery charges you paid for the original order are not refunded, unless the return is due to our mistake or a defective product.
 • If a coupon or discount was used, the refund equals the amount you actually paid for the returned item.
 8. Exchanges
 If you want a different size or color, we will exchange the product subject to stock availability and the conditions in Section 4. If the item is out of stock, we will offer a refund instead.
 9. Order Cancellation
-You may cancel an order for free before it is dispatched by contacting us with your Order ID. Once the order is with the courier, please use the rules above for returns at delivery.
+You may cancel an order for free before we dispatch it by contacting us with your Order ID. Once the order is with the courier, please use the rules above for returns at delivery.
 10. Contact Us
 • Business name: Top Duoo
 • Website: https://topduoo.com
